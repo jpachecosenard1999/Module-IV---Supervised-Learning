@@ -1,0 +1,8 @@
+main.ipynb
+preprocesamiento.ipynb
+project_risk_raw_dataset.csv
+procesado.csv
+Regression/DNA
+arnet_model_fixed.pkl
+arnet_scaler_fixed.pkl
+sarima_fixed_model.pkl
