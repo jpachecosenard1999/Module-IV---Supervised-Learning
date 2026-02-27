@@ -6,3 +6,9 @@ Regression/DNA
 arnet_model_fixed.pkl
 arnet_scaler_fixed.pkl
 sarima_fixed_model.pkl
+haberman.data
+processed.cleveland.data
+breast-cancer-wisconsin.data
+balance-scale.data
+nursery.data
+car.data
