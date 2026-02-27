@@ -1,0 +1,8 @@
+python -m venv ale_env
+source ale_env/bin/activate   # Linux / Mac
+ale_env\Scripts\activate      # Windows
+
+pip install gymnasium[atari]
+
+import ale_py
+gym.register_envs(ale_py) 
